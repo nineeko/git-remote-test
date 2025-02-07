@@ -1,5 +1,4 @@
 1 git local repository
 2 updated
 3 test2 updated
-<summary>dkdd<summary>
-![dkdd](https://github.com/nineeko/git-remote-test/blob/87e54b529e7f378c71831348250ef6ef9c775167/4b131354cfddad43-ezgif.com-speed.gif)
+![Image](https://github.com/user-attachments/assets/c1adba0c-6b29-465e-9f30-5b286137dac6)
